@@ -202,25 +202,25 @@ Backtest ROI: 25.64%
 
 ## Main Dashboard
 
-![Main Dashboard](images/dashboard/main_dashboard.png)
-
----
-
-## Market Control Panel
-
-![Control Panel](images/dashboard/control_panel.png)
+![Main Dashboard](images/main_dashboard.png)
 
 ---
 
 ## Weekly Analysis
 
-![Weekly Analysis](images/charts/weekly_analysis_chart.png)
+![Weekly Analysis](images/risk_gauge.png)
 
 ---
 
-## Risk Gauge
+## Performance Analysis
 
-![Risk Gauge](images/charts/risk_gauge.png)
+![Performance Analysis](images/performance_analysis.png)
+
+---
+
+## Annual Analytics
+
+![Annual Analytics](images/annual_analytics.png)
 
 ---
 
