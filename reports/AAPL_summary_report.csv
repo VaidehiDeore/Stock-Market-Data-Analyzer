@@ -1,0 +1,2 @@
+ticker,latest_close,highest_price,lowest_price,overall_return_percent,average_daily_return_percent,volatility_percent,max_drawdown_percent,risk_level,trend,signal,backtest_final_value,backtest_profit_loss,backtest_roi_percent,backtest_trades
+AAPL,287.51,288.62,164.08,54.88,0.0894,27.49,-33.43,Medium,Bullish,Buy,125636.38,25636.38,25.64,15

@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+.env
+
+node_modules/
+.next/
+out/
+dist/
+
+.DS_Store
+Thumbs.db
+
+*.log
+.cache/
+
+backend/db/market.db
